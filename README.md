@@ -11,5 +11,5 @@ insta: @edulimapereira
 
 
 
-ADENDO: Estou no segundo ano, então isso aqui é so pra quem e engajado com o curso e teve a fodisse de passar, se tu é doo primeiro passa
+ADENDO: Estou no segundo ano, então isso aqui é so pra quem e engajado com o curso e teve a fodisse de passar, se tu é do primeiro passa
 de ano primeiro e dps volta aqui seu vacilão
